@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lalitkumar.ac105@gmail.com**
 
-- ⚡ Fun fact **idk**
+- ⚡ Fun fact **The Version Control System Git was created in 5 Days**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
