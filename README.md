@@ -135,7 +135,7 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 <hr>
 
 
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/8a2893bef85d2af7f69e3380d840b96c95c99d6a/Media/monkey-laptop.gif" alt="Your Image" width="850"  height="400" /><p>Me While Typing LGTM.</p></div> |
+| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/8a2893bef85d2af7f69e3380d840b96c95c99d6a/Media/monkey-laptop.gif" alt="Your Image" width="800"  height="400" /><p>Me While Typing LGTM.</p></div> |
 |:--:|
 
 
