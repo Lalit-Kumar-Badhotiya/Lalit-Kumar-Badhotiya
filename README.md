@@ -143,11 +143,36 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 | <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/6a1b48308cb7b660c72d283ae2353e083c7632a1/Media/longlegs.shootyourselfinfoot.jpg" alt="Your Image" width="900"  height="500" /><p>"C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off" <br> </p> - Bjarne Stroustrup </div> |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
+<!--
+
 | <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/cd6226a5df9f076493f895a808b2d65a9c895ca3/Media/Screenshot_20240526-181937_YouTube.jpg" alt="Your Image" width="900"  height="700" /><p>fr Broo.</p></div> |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/5878998d45c7db3b85133eec0f0add5a6c7810b5/Media/Screenshot_20240526-181956_YouTube.jpg" alt="Your Image" width="900"  height="700" /><p>Wating forever.</p></div> |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+-->
+
+
+<p >
+  <img align="left" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/cd6226a5df9f076493f895a808b2d65a9c895ca3/Media/Screenshot_20240526-181937_YouTube.jpg" width="400"  height="500" />
+  <img align="right" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/5878998d45c7db3b85133eec0f0add5a6c7810b5/Media/Screenshot_20240526-181956_YouTube.jpg" width="400"  height="500"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/d4220cedbc4a0a46e8eea51ee872b597ff64ef6f/Media/torvaldsnvidia.jpg" alt="Your Image" width="900"  height="500" /><p>Thank you for your time and Thank you for viewing my profile</p></div> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
