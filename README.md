@@ -41,7 +41,7 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 <a href="https://www.geeksforgeeks.org/user/lalitkum3rg2/"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/c218ce1e3b8f7ebb49a12fb99a57d42c09d1a36d/Media/gfg-new-logo-Photoroom.png" style="width:100px;height:20px;"></a>
 <a href="https://www.hackerearth.com/@lalitkumar.ac105"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/c3c993feedd0e241333692ff12cac46bc7d8d0f5/Media/hackerearth_old_logo.jpg" style="width:100px;height:20px;"></a>
 
-<p><img align="right" width="375px" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/main/Media/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" width="375px" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/main/Media/animation_500_kxa883sd.gif"/></p>
 
 
 ## ⚡ Technologies
