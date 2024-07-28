@@ -152,26 +152,15 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 
 <hr>
 
-<!--
 
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/cd6226a5df9f076493f895a808b2d65a9c895ca3/Media/Screenshot_20240526-181937_YouTube.jpg" alt="Your Image" width="900"  height="700" /><p>fr Broo.</p></div> |
+
+| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/cd6226a5df9f076493f895a808b2d65a9c895ca3/Media/Screenshot_20240526-181937_YouTube.jpg"  width="900"  height="700" /><p></p></div> |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/5878998d45c7db3b85133eec0f0add5a6c7810b5/Media/Screenshot_20240526-181956_YouTube.jpg" alt="Your Image" width="900"  height="700" /><p>Wating forever.</p></div> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
--->
 
 
 
 
-
-
-
-<div>
-<p>
-  <img align="left" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/cd6226a5df9f076493f895a808b2d65a9c895ca3/Media/Screenshot_20240526-181937_YouTube.jpg" width="400"  height="500" />
-  <img align="right" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/5878998d45c7db3b85133eec0f0add5a6c7810b5/Media/Screenshot_20240526-181956_YouTube.jpg" width="400"  height="500"/>
-</p></div>
 
 
 
