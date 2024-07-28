@@ -81,8 +81,13 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
 ### Holopin Badges
-
+<!--
 <img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/22675f009ac376a6d5134c8815ac1a7f6c78119c/Media/lalit%20holopin.png" alt="" width="1100" height="300"/>
+-->
+| <div><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/22675f009ac376a6d5134c8815ac1a7f6c78119c/Media/lalit%20holopin.png" width="1100"  height="300" /><p></p></div> |
+|:--:|
+
+
 
 <!-- ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
