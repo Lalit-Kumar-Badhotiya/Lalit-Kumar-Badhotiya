@@ -129,7 +129,7 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 
 <hr>
 
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/8a2893bef85d2af7f69e3380d840b96c95c99d6a/Media/monkey-laptop.gif" alt="Your Image" width="830"  height="400" /><p>Me While Typing LGTM.</p></div> |
+| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/8a2893bef85d2af7f69e3380d840b96c95c99d6a/Media/monkey-laptop.gif" alt="Your Image" width="820"  height="400" /><p>Me While Typing LGTM.</p></div> |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/9f1e895d0c8cf2318fe191de82a39bcacca9aaef/Media/linus-torvalds-drunk-game.jpg" alt="Your Image" width="900"  height="500" /><p>The man, The myth, The legend. <br> This is what 10x Dev looks like.</p></div> |
