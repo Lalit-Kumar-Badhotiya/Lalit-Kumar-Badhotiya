@@ -84,7 +84,7 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 <!--
 <img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/22675f009ac376a6d5134c8815ac1a7f6c78119c/Media/lalit%20holopin.png" alt="" width="1100" height="300"/>
 -->
-| <div><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/22675f009ac376a6d5134c8815ac1a7f6c78119c/Media/lalit%20holopin.png" width="1100"  height="300" /><p></p></div> |
+| <div><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/22675f009ac376a6d5134c8815ac1a7f6c78119c/Media/lalit%20holopin.png" width="1100"  height="250" /><p></p></div> |
 |:--:|
 
 
