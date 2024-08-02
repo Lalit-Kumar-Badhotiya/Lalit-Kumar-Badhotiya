@@ -38,12 +38,12 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 
 ## 👨🏻‍💻 Coding Profiles
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lalitkumar_ac105)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/focus_mirage)
-<a href="https://stackoverflow.com/users/25638726/lalit-kumar-badhotiya"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/13c2fdbae05744205a68cdf66f0431420acc3174/Media/logo-stackoverflow.png" style="width:100px;height:20px;"></a>
-<a href="https://codeforces.com/profile/Lalitkumarbadhotiya"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/05dad1df7818cec3ba4546e6c195b1ddbec955e1/Media/CF%20logo.png" style="width:100px;height:20px;"></a>
 <a href="https://leetcode.com/u/Lalit_Kumar_Badhotiya/"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/cdcbc8816e005e830556ef694a7199b1762660f3/Media/leetcode.png" style="width:100px;height:20px;"></a>
 <a href="https://www.geeksforgeeks.org/user/lalitkum3rg2/"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/c218ce1e3b8f7ebb49a12fb99a57d42c09d1a36d/Media/gfg-new-logo-Photoroom.png" style="width:100px;height:20px;"></a>
+<a href="https://stackoverflow.com/users/25638726/lalit-kumar-badhotiya"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/13c2fdbae05744205a68cdf66f0431420acc3174/Media/logo-stackoverflow.png" style="width:100px;height:20px;"></a>
+<a href="https://codeforces.com/profile/Lalitkumarbadhotiya"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/05dad1df7818cec3ba4546e6c195b1ddbec955e1/Media/CF%20logo.png" style="width:100px;height:20px;"></a>
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lalitkumar_ac105)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/focus_mirage)
 <a href="https://www.hackerearth.com/@lalitkumar.ac105"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/c3c993feedd0e241333692ff12cac46bc7d8d0f5/Media/hackerearth_old_logo.jpg" style="width:100px;height:20px;"></a>
 
 <p><img align="right" width="375px" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/main/Media/animation_500_kxa883sd.gif"/></p>
