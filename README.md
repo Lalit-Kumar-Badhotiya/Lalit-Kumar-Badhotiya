@@ -46,6 +46,8 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lalitkumar_ac105)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/focus_mirage)
 <a href="https://www.hackerearth.com/@lalitkumar.ac105"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/c3c993feedd0e241333692ff12cac46bc7d8d0f5/Media/hackerearth_old_logo.jpg" style="width:100px;height:20px;"></a>
+<a href="##"><img src="" style="width:100px;height:20px;"></a>
+https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/e8661c06d4202ce2c8f9adb703d1f5d35e8d108d/Media/Medium_logo.svg
 
 <p><img align="right" width="375px" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/main/Media/animation_500_kxa883sd.gif"/></p>
 
