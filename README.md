@@ -16,6 +16,7 @@
 
 </p>
 I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applications (BCA) degree from [GLA UNIVERSITY, MATHURA] . I am a tech enthusiast & an open-source advocate. I am always open to collaborate on projects and innovative/disruptive ideas.
+<br>
 
 - 🔭 I’m currently working on _Web Development_.
 - 🌱 I’m currently learning _Data Structures and Algorithms_.
