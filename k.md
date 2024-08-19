@@ -32,10 +32,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrubojyot" alt="dhrubojyot" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"><img src="https://img.shields.io/twitter/follow/dhrubojyoticha9?logo=twitter&style=for-the-badge" alt="dhrubojyoticha9" /></a> </p>
-
 <img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
 
 
