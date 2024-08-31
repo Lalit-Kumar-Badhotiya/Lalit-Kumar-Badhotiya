@@ -87,6 +87,9 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA Icon.svg" width="40" height="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/738px-Neovim-mark.svg.png?20150131093814" alt="nvim svg" width="35" height="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/816px-Vimlogo.svg.png?20150726190850" alt="vim svg" width="35" height="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png?20200803065702" alt="pycharm" width="35" height="20"/>
 
 ### Holopin Badges
 <!--
