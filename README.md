@@ -86,6 +86,7 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA Icon.svg" width="40" height="20"/>
 
 ### Holopin Badges
 <!--
