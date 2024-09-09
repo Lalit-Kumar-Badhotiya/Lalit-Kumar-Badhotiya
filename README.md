@@ -1,3 +1,11 @@
+<!-- 
+If you know assembly every software is open source. - A wise person
+-->
+
+
+
+
+
 <!--
 | <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/f0d6ea8934eafa722d6ac772528408fc4b1b1560/Media/Screenshot_20240621-170207_YouTube.jpg" alt="Your Image" width="900"  height="400" /><p></p></div> |
 |:--:|
