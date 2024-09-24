@@ -37,7 +37,7 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 <!-- profile views calctulator <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lalit-Kumar-Badhotiya&label=Profile%20views&color=0e75b6&style=flat" alt="Lalit-Kumar-Badhotiya" /> </p> -->
 
 <h2>My GitHub Stats <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a> </h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lalit-Kumar-Badhotiya&theme=monokai" alt="KunalBatham2701" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lalit-Kumar-Badhotiya&theme=monokai" alt="" /></a> </p>
 
 ## 🔗 Connect With Me
 
