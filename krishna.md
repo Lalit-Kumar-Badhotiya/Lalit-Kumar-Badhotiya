@@ -20,12 +20,6 @@ I am Krishna Saraswat, currently pursuing my Bachelor of Computer Applications (
 <h2>My GitHub Stats <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a> </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lalit-Kumar-Badhotiya&theme=monokai" alt="" /></a> </p>
 
-## 🔗 Connect With Me
-
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lalitkumar.ac105@gmail.com)](mailto:lalitkumar.ac105@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/lalit-kumar-badhotiya)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/lalit141)
-[![X](https://img.shields.io/twitter/follow/Lalitkumar756)](https://x.com/Lalitkumar765?t=h5PNNlpofBIE7wGWvIuqPQ&s=09)
 
 ## 👨🏻‍💻 Coding Profiles
 
@@ -33,10 +27,7 @@ I am Krishna Saraswat, currently pursuing my Bachelor of Computer Applications (
 <a href="https://www.geeksforgeeks.org/user/lalitkum3rg2/"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/c218ce1e3b8f7ebb49a12fb99a57d42c09d1a36d/Media/gfg-new-logo-Photoroom.png" style="width:100px;height:20px;"></a>
 <a href="https://stackoverflow.com/users/25638726/lalit-kumar-badhotiya"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/13c2fdbae05744205a68cdf66f0431420acc3174/Media/logo-stackoverflow.png" style="width:100px;height:20px;"></a>
 <a href="https://codeforces.com/profile/Lalitkumarbadhotiya"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/05dad1df7818cec3ba4546e6c195b1ddbec955e1/Media/CF%20logo.png" style="width:100px;height:20px;"></a>
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/lalitkumar_ac105)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/focus_mirage)
-<a href="https://www.hackerearth.com/@lalitkumar.ac105"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/c3c993feedd0e241333692ff12cac46bc7d8d0f5/Media/hackerearth_old_logo.jpg" style="width:100px;height:20px;"></a>
-<a href="https://medium.com/@lalitkumar.ac105"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/6989f9bc00b23e66938eae83e9095311f71084af/Media/Medium_logo.png" style="width:110px;height:20px;"></a>
+
 
 
 <p><img align="right" width="375px" src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/main/Media/animation_500_kxa883sd.gif"/></p>
@@ -47,8 +38,7 @@ I am Krishna Saraswat, currently pursuing my Bachelor of Computer Applications (
 
 <p align="left"> <!--<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>--> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/a15555e159fa8da053d75d3dbe51939d6abf0905/Media/brainfu%23k.jpeg" alt="brainfuck" width="60" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/900px-Lua-Logo.svg.png?20150107024942" alt="luaSVG" width="60" height="40"/>
+
 
 </p>
 
@@ -94,6 +84,43 @@ I am Krishna Saraswat, currently pursuing my Bachelor of Computer Applications (
 </p>
 
 
+
+
+
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
+
+<img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
+
+
+
+
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  
+ 
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+ 
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+ 
+  
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+
+
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  
+  
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  
+
+
+
+
+
+<img align="center" alt="runner" width="100%" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
 
 
 <h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6>
