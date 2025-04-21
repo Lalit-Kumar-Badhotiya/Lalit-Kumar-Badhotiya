@@ -80,45 +80,6 @@ I am Krishna Saraswat, currently pursuing my Bachelor of Computer Applications (
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/816px-Vimlogo.svg.png?20150726190850" alt="vim svg" width="35" height="20"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png?20200803065702" alt="pycharm" width="35" height="20"/>
 
-### Holopin Badges
-<!--
-<img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/22675f009ac376a6d5134c8815ac1a7f6c78119c/Media/lalit%20holopin.png" alt="" width="1100" height="300"/>
--->
-| <div><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/22675f009ac376a6d5134c8815ac1a7f6c78119c/Media/lalit%20holopin.png" width="1100"  height="250" /><p></p></div> |
-|:--:|
-
-
-
-<!-- ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
-
-<!--![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
-  ![NextJS](https://img.shields.io/badge/-NextJS-333?logo=Next.js)
-  ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI)
-- 📶 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node%20JS-333?style=flat&logo=Node.js)
-  ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=Express)
-  ![Socket.io](https://img.shields.io/badge/-Socket.io-333?style=flat&logo=Socket.io)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-  ![FireStore](https://img.shields.io/badge/-FireStore-333?style=flat&logo=Firebase)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
-- 🔧 &nbsp; -->
-
 ## 📈 Stats
 
 <table>
@@ -133,44 +94,6 @@ I am Krishna Saraswat, currently pursuing my Bachelor of Computer Applications (
 </p>
 
 
-## 🗣️touch grass
-
-
-<hr>
-
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/8a2893bef85d2af7f69e3380d840b96c95c99d6a/Media/monkey-laptop.gif" alt="Your Image" width="818"  height="400" /><p>Me While Typing LGTM.</p></div> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-
-<hr>
-
-
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/9f1e895d0c8cf2318fe191de82a39bcacca9aaef/Media/linus-torvalds-drunk-game.jpg" alt="Your Image" width="900"  height="500" /><p>The man, The myth, The legend. <br> This is what 10x Dev looks like.</p></div> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-
-<hr>
-
-
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/6a1b48308cb7b660c72d283ae2353e083c7632a1/Media/longlegs.shootyourselfinfoot.jpg" alt="Your Image" width="900"  height="500" /><p>"C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off" <br> </p> - Bjarne Stroustrup </div> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-
-<hr>
-
-
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/cd6226a5df9f076493f895a808b2d65a9c895ca3/Media/Screenshot_20240526-181937_YouTube.jpg"  width="900"  height="700" /><p></p></div> |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-
-<hr>
-
-
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/d4220cedbc4a0a46e8eea51ee872b597ff64ef6f/Media/torvaldsnvidia.jpg" alt="Your Image" width="900"  height="500" /><p>Thank you for your time and Thank you for viewing my profile</p></div> |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-
-<hr>
 
 
 <h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6>
