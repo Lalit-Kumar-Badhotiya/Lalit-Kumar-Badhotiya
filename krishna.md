@@ -1,30 +1,19 @@
 
-| <div style="border: 2px solid ; padding: 10px; display: inline-block; text-align: center;"><img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/f0d6ea8934eafa722d6ac772528408fc4b1b1560/Media/Screenshot_20240621-170207_YouTube.jpg" alt="Your Image" width="900"  height="400" /><p></p></div> |
-|:--:|
 
 
+# Hi 👋 , I am Krishna Saraswat! Great to see you here!
 
-<p align="center">
-  <img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/f0d6ea8934eafa722d6ac772528408fc4b1b1560/Media/Screenshot_20240621-170207_YouTube.jpg" />
-</p>
-
-<hr>
-
-# Hi 👋 , I am Lalit Kumar Badhotiya! Great to see you here!
-
-<a href="https://github.com/Lalit-Kumar-Badhotiya/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=50&color=41FF00&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Lalit!;I+Like+To+Learn+New+Technologies.;I+Like+To+Explore+New+Tech.;I+Love+Coding++%E2%9D%A4.;Let's+Connect."></a>
+<a href="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+%2C+I+am+Krishna;I+Like+To+Learn+New+Technologies.;I+Like+To+Explore+New+Tech.;I+Love+Coding+%F0%9F%92%99;Let%27s+Connect.](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+%2C+I+am+Krishna;I+Like+To+Learn+New+Technologies.;I+Like+To+Explore+New+Tech.;I+Love+Coding+%F0%9F%92%99;Let's+Connect." alt="Typing SVG)"></a>
 
 </p>
-I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applications (BCA) degree from [GLA UNIVERSITY, MATHURA] . I am a tech enthusiast & an open-source advocate. I am always open to collaborate on projects and innovative/disruptive ideas.
+I am Krishna Saraswat, currently pursuing my Bachelor of Computer Applications (BCA) degree from [GLA UNIVERSITY, MATHURA] . I am a tech enthusiast & an open-source advocate. I am always open to collaborate on projects and innovative/disruptive ideas.
 <br>
 
 - 🔭 I’m currently working on _Web Development_.
 - 🌱 I’m currently learning _Data Structures and Algorithms_.
 - 👯 I’m looking to collaborate on _Python/Java_.
-- 🚀 I'm Interested in making _IOT Projects_.
-- 📫 How to reach me **lalitkumar.ac105@gmail.com**.
-- ⚡ Fun fact **The Version Control System Git was created in 5 Days**.
-- 💬 Ask me about _CS_.
+- 🚀 I'm Interested in making _Web Dev Projects_.
+- 📫 How to reach me **krishna@gmail.com**.
 
 <!-- profile views calctulator <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lalit-Kumar-Badhotiya&label=Profile%20views&color=0e75b6&style=flat" alt="Lalit-Kumar-Badhotiya" /> </p> -->
 
