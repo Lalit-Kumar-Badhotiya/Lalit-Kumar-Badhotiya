@@ -58,7 +58,7 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 <p align="left"> <!--<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>--> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://github.com/Lalit-Kumar-Badhotiya/Lalit-Kumar-Badhotiya/blob/a15555e159fa8da053d75d3dbe51939d6abf0905/Media/brainfu%23k.jpeg" alt="brainfuck" width="60" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/900px-Lua-Logo.svg.png?20150107024942" alt="luaSVG" width="60" height="40"/>
+
 
 </p>
 
@@ -85,9 +85,8 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA Icon.svg" width="40" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/738px-Neovim-mark.svg.png?20150131093814" alt="nvim svg" width="35" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/816px-Vimlogo.svg.png?20150726190850" alt="vim svg" width="35" height="20"/>
+
+
 
 ### Holopin Badges
 <!--
@@ -132,12 +131,9 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Lalit-Kumar-Badhotiya&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit-Kumar-Badhotiya&theme=tokyonight" />
 </tr>
 </table>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lalit-Kumar-Badhotiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </p>
 
