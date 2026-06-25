@@ -30,6 +30,12 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 
 <h2>My GitHub Stats <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a> </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lalit-Kumar-Badhotiya&theme=monokai" alt="" /></a> </p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-itsflash10.vercel.app/api?username=Lalit-Kumar-Badhotiya&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Lalit-Kumar-Badhotiya" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Lalit-Kumar-Badhotiya&theme=radical&hide_border=true" alt="Lalit-Kumar-Badhotiya" /></td>
+  </tr>
+</table>
 
 ## 🔗 Connect With Me
 
@@ -128,15 +134,15 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
   ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 - 🔧 &nbsp; -->
 
-## 📈 Stats
+<!-- ## 📈 Stats -->
 
-<table>
+<!-- <table>
 <tr>
 <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit-Kumar-Badhotiya&theme=tokyonight" />
 </tr>
 </table>
 </td>
-</p>
+</p> -->
 
 
 ## 🗣️touch grass
