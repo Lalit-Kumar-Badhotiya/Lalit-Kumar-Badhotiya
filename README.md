@@ -19,12 +19,12 @@ I am Lalit Kumar Badhotiya, currently pursuing my Bachelor of Computer Applicati
 <br>
 
 - 🔭 I’m currently working on _Web Development_.
-- 🌱 I’m currently learning _Data Structures and Algorithms_.
+<!-- - 🌱 I’m currently learning _Data Structures and Algorithms_.
 - 👯 I’m looking to collaborate on _Python/Java_.
-- 🚀 I'm Interested in making _IOT Projects_.
+- 🚀 I'm Interested in making _IOT Projects_. -->
 - 📫 How to reach me **lalitkumar.ac105@gmail.com**.
-- ⚡ Fun fact **The Version Control System Git was created in 5 Days**.
-- 💬 Ask me about _CS_.
+<!-- - ⚡ Fun fact **The Version Control System Git was created in 5 Days**.
+- 💬 Ask me about _CS_. -->
 
 <!-- profile views calctulator <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lalit-Kumar-Badhotiya&label=Profile%20views&color=0e75b6&style=flat" alt="Lalit-Kumar-Badhotiya" /> </p> -->
 
