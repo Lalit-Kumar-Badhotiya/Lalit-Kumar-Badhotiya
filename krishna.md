@@ -50,18 +50,6 @@ I am Krishna Saraswat, currently pursuing my Bachelor of Computer Applications (
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📈 Stats
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Lalit-Kumar-Badhotiya&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lalit-Kumar-Badhotiya&theme=tokyonight" />
-</tr>
-</table>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lalit-Kumar-Badhotiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</p>
 
 
 
